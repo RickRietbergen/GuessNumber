@@ -1,0 +1,14 @@
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\bin\Debug\netcoreapp3.1\guessNumber.exe
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\bin\Debug\netcoreapp3.1\guessNumber.deps.json
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\bin\Debug\netcoreapp3.1\guessNumber.runtimeconfig.json
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\bin\Debug\netcoreapp3.1\guessNumber.runtimeconfig.dev.json
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\bin\Debug\netcoreapp3.1\guessNumber.dll
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\bin\Debug\netcoreapp3.1\guessNumber.pdb
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\obj\Debug\netcoreapp3.1\guessNumber.csproj.AssemblyReference.cache
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\obj\Debug\netcoreapp3.1\guessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\obj\Debug\netcoreapp3.1\guessNumber.AssemblyInfoInputs.cache
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\obj\Debug\netcoreapp3.1\guessNumber.AssemblyInfo.cs
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\obj\Debug\netcoreapp3.1\guessNumber.csproj.CoreCompileInputs.cache
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\obj\Debug\netcoreapp3.1\guessNumber.dll
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\obj\Debug\netcoreapp3.1\guessNumber.pdb
+C:\Users\rbps3\source\repos\guessNumber\guessNumber\obj\Debug\netcoreapp3.1\guessNumber.genruntimeconfig.cache
